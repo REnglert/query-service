@@ -1,0 +1,3 @@
+echo "terraform/terraform.tfstate*" >> .gitignore
+echo "terraform/.terraform/" >> .gitignore
+echo "bin/" >> .gitignore
